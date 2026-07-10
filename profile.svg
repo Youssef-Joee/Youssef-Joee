@@ -23,7 +23,7 @@
     <text x="0" y="270" class="comment">- Skills &amp; Tech Stack --------------------</text>
     <text x="0" y="295"><tspan class="sub-label">Languages.Core</tspan>: Python, SQL</text>
     <text x="0" y="320"><tspan class="sub-label">Data.Engineering</tspan>: Apache Spark, Delta Lake</text>
-    <text x="0" y="345"><tspan class="sub-label">Tools.Infra</tspan>: Git, GitHub, Fabric [cite: The user demonstrates sustained engagement in data engineering architectures, specifically Medallion architectures involving Bronze, Silver, and Gold layers., The user is a Microsoft Certified: Fabric Data Engineer Associate and is pursuing an undergraduate degree with an expected graduation in 2027.]</text>
+    <text x="0" y="345"><tspan class="sub-label">Tools.Infra</tspan>: Git, GitHub, Azure, Fabric </text>
     
     <text x="0" y="375" class="comment">- Contact --------------------------------</text>
     <text x="0" y="400"><tspan class="sub-label">LinkedIn</tspan>: <tspan class="link">linkedin.com/in/youssef-amgad</tspan></text>
