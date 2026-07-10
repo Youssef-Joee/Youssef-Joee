@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 490" width="450" height="490">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 520" width="460" height="520">
   <rect width="100%" height="100%" rx="6" fill="#0d1117"/>
   <style>
     .text-base { font-family: monospace; font-size: 13px; fill: #c9d1d9; }
@@ -9,25 +9,29 @@
     .link { fill: #8be9fd; font-weight: bold; }
   </style>
 
-  <g transform="translate(15, 0)" class="text-base">
+  <g transform="translate(20, 5)" class="text-base">
+    <!-- اسم المستخدم والجهاز -->
     <text x="0" y="35"><tspan class="highlight">youssef</tspan>@<tspan class="highlight">desktop</tspan></text>
     <text x="0" y="55" class="comment">------------------------------------------</text>
     
-    <text x="0" y="85"><tspan class="label">OS</tspan>: Windows 11, Linux (Ubuntu)</text>
-    <text x="0" y="115"><tspan class="label">Uptime</tspan>: Undergraduate (Exp. 2027)</text>
-    <text x="0" y="145"><tspan class="label">Host</tspan>: Assiut University</text>
-    <text x="0" y="175"><tspan class="label">Kernel</tspan>: Data and AI Engineer</text>
-    <text x="0" y="205"><tspan class="label">Certification</tspan>: Fabric Data Engineer Associate</text>
-    <text x="0" y="235"><tspan class="label">IDE</tspan>: VS Code, Databricks, Jupyter</text>
+    <!-- معلومات النظام الأساسية -->
+    <text x="0" y="90"><tspan class="label">OS</tspan>: Windows 11, Linux (Ubuntu)</text>
+    <text x="0" y="120"><tspan class="label">Uptime</tspan>: Undergraduate (Exp. 2027)</text>
+    <text x="0" y="150"><tspan class="label">Host</tspan>: Assiut University</text>
+    <text x="0" y="180"><tspan class="label">Kernel</tspan>: Data and AI Engineer</text>
+    <text x="0" y="210"><tspan class="label">Certification</tspan>: Fabric Data Engineer Associate</text>
+    <text x="0" y="240"><tspan class="label">IDE</tspan>: VS Code, Databricks, Jupyter</text>
     
-    <text x="0" y="270" class="comment">- Skills &amp; Tech Stack --------------------</text>
-    <text x="0" y="295"><tspan class="sub-label">Languages.Core</tspan>: Python, SQL</text>
-    <text x="0" y="320"><tspan class="sub-label">Data.Engineering</tspan>: Apache Spark, Delta Lake</text>
-    <text x="0" y="345"><tspan class="sub-label">Tools.Infra</tspan>: Git, GitHub, Azure, Fabric </text>
+    <!-- المهارات والتقنيات -->
+    <text x="0" y="275" class="comment">- Skills &amp; Tech Stack --------------------</text>
+    <text x="0" y="305"><tspan class="sub-label">Languages.Core</tspan>: Python, SQL</text>
+    <text x="0" y="335"><tspan class="sub-label">Data.Engineering</tspan>: Apache Spark, Delta Lake</text>
+    <text x="0" y="365"><tspan class="sub-label">Tools.Infra</tspan>: Git, GitHub, Fabric [cite: The user demonstrates sustained engagement in data engineering architectures, specifically Medallion architectures involving Bronze, Silver, and Gold layers., The user is a Microsoft Certified: Fabric Data Engineer Associate and is pursuing an undergraduate degree with an expected graduation in 2027.]</text>
     
-    <text x="0" y="375" class="comment">- Contact --------------------------------</text>
-    <text x="0" y="400"><tspan class="sub-label">LinkedIn</tspan>: <tspan class="link">linkedin.com/in/youssef-amgad</tspan></text>
-    <text x="0" y="425"><tspan class="sub-label">YouTube</tspan>: <tspan class="link">@You-ssef-Amgad</tspan></text>
-    <text x="0" y="450"><tspan class="sub-label">Email</tspan>: <tspan class="link">youssefamgad76@gmail.com</tspan></text>
+    <!-- معلومات الاتصال -->
+    <text x="0" y="400" class="comment">- Contact --------------------------------</text>
+    <text x="0" y="430"><tspan class="sub-label">LinkedIn</tspan>: <tspan class="link">linkedin.com/in/youssef-amgad</tspan></text>
+    <text x="0" y="460"><tspan class="sub-label">YouTube</tspan>: <tspan class="link">@You-ssef-Amgad</tspan></text>
+    <text x="0" y="490"><tspan class="sub-label">Email</tspan>: <tspan class="link">youssefamgad76@gmail.com</tspan></text>
   </g>
 </svg>
