@@ -26,7 +26,7 @@
   </g>
 
   <!-- العمود الأيمن: المهارات بس، نازلة شوية عن العمود التاني -->
-  <g transform="translate(410, 150)" class="text-base">
+  <g transform="translate(400, 60)" class="text-base">
     <text x="0" y="0" class="comment">- Skills &amp; Tech Stack ---------------</text>
     <text x="20" y="32"><tspan class="sub-label">Languages.Core</tspan>: Python, SQL</text>
     <text x="20" y="64"><tspan class="sub-label">Data.Engineering</tspan>: Apache Spark, Delta Lake</text>
@@ -34,10 +34,10 @@
   </g>
 
   <!-- معلومات الاتصال: متوسطنة تحت الاتنين -->
-  <g transform="translate(400, 350)" class="text-base" text-anchor="middle">
+  <g transform="translate(400, 220)" class="text-base">
     <text x="0" y="0" class="comment">- Contact -----------------------</text>
-    <text x="41" y="32"><tspan class="sub-label">LinkedIn</tspan>: <tspan class="link">linkedin.com/in/youssef-amgad</tspan></text>
-    <text x="-16" y="64"><tspan class="sub-label">YouTube</tspan>: <tspan class="link">@You-ssef-Amgad</tspan></text>
-    <text x="14" y="96"><tspan class="sub-label">Email</tspan>: <tspan class="link">youssefamgad76@gmail.com</tspan></text>
+    <text x="20" y="32"><tspan class="sub-label">LinkedIn</tspan>: <tspan class="link">linkedin.com/in/youssef-amgad</tspan></text>
+    <text x="20" y="64"><tspan class="sub-label">YouTube</tspan>: <tspan class="link">@You-ssef-Amgad</tspan></text>
+    <text x="20" y="96"><tspan class="sub-label">Email</tspan>: <tspan class="link">youssefamgad76@gmail.com</tspan></text>
   </g>
 </svg>
