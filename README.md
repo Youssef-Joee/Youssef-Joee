@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile.svg" alt="Youssef's Info" width="600">
+  <img src="profile.svg" alt="Youssef's Info" width="460">
 </div>
 
 <div align="center">
