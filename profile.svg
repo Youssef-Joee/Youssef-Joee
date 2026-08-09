@@ -12,29 +12,29 @@
   <!-- الهيدر: يمتد بعرض الصورة كاملة -->
   <g transform="translate(30, 20)" class="text-base">
     <text x="0" y="15"><tspan class="highlight">youssef</tspan>@<tspan class="highlight">desktop</tspan></text>
-    <text x="0" y="35" class="comment">------------------------------------------------------------------------</text>
+    <text x="0" y="35" class="comment">---------------------------------------------</text>
   </g>
 
-  <!-- العمود الأيسر: معلومات النظام -->
+  <!-- العمود الأيسر: معلومات النظام (مسافات موسّعة عشان يبقى بنفس طول العمود التاني بالظبط) -->
   <g transform="translate(30, 90)" class="text-base">
     <text x="0" y="0"><tspan class="label">OS</tspan>: Windows 11, Linux (Ubuntu)</text>
-    <text x="0" y="32"><tspan class="label">Uptime</tspan>: Undergraduate (Exp. 2027)</text>
-    <text x="0" y="64"><tspan class="label">Host</tspan>: Assiut University</text>
-    <text x="0" y="96"><tspan class="label">Kernel</tspan>: Data and AI Engineer</text>
-    <text x="0" y="128"><tspan class="label">Certification</tspan>: Fabric Data Engineer Associate</text>
-    <text x="0" y="160"><tspan class="label">IDE</tspan>: VS Code, Databricks, Jupyter</text>
+    <text x="0" y="45"><tspan class="label">Uptime</tspan>: Undergraduate (Exp. 2027)</text>
+    <text x="0" y="90"><tspan class="label">Host</tspan>: Assiut University</text>
+    <text x="0" y="135"><tspan class="label">Kernel</tspan>: Data and AI Engineer</text>
+    <text x="0" y="180"><tspan class="label">Certification</tspan>: Fabric Data Engineer Associate</text>
+    <text x="0" y="225"><tspan class="label">IDE</tspan>: VS Code, Databricks, Jupyter</text>
   </g>
 
-  <!-- العمود الأيمن: المهارات وجهات التواصل -->
+  <!-- العمود الأيمن: المهارات وجهات التواصل (نفس نقطة النهاية بالظبط) -->
   <g transform="translate(410, 90)" class="text-base">
     <text x="0" y="0" class="comment">- Skills &amp; Tech Stack ---------------</text>
-    <text x="0" y="32"><tspan class="sub-label">Languages.Core</tspan>: Python, SQL</text>
-    <text x="0" y="64"><tspan class="sub-label">Data.Engineering</tspan>: Apache Spark, Delta Lake</text>
-    <text x="0" y="96"><tspan class="sub-label">Tools.Infra</tspan>: Git, GitHub, Azure, Fabric</text>
+    <text x="0" y="32"><tspan class="sub-label">    Languages.Core</tspan>: Python, SQL</text>
+    <text x="0" y="64"><tspan class="sub-label">    Data.Engineering</tspan>: Apache Spark, Delta Lake</text>
+    <text x="0" y="96"><tspan class="sub-label">    Tools.Infra</tspan>: Git, GitHub, Azure, Fabric</text>
 
     <text x="0" y="128" class="comment">- Contact -----------------------------</text>
-    <text x="0" y="160"><tspan class="sub-label">LinkedIn</tspan>: <tspan class="link">linkedin.com/in/youssef-amgad</tspan></text>
-    <text x="0" y="192"><tspan class="sub-label">YouTube</tspan>: <tspan class="link">@You-ssef-Amgad</tspan></text>
-    <text x="0" y="224"><tspan class="sub-label">Email</tspan>: <tspan class="link">youssefamgad76@gmail.com</tspan></text>
+    <text x="0" y="160"><tspan class="sub-label">LinkedIn</tspan>: <tspan class="link">    linkedin.com/in/youssef-amgad</tspan></text>
+    <text x="0" y="192"><tspan class="sub-label">YouTube</tspan>: <tspan class="link">    @You-ssef-Amgad</tspan></text>
+    <text x="0" y="224"><tspan class="sub-label">Email</tspan>: <tspan class="link">    youssefamgad76@gmail.com</tspan></text>
   </g>
 </svg>
