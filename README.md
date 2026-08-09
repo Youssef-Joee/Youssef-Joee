@@ -1,4 +1,4 @@
-<img src="profile.svg" alt="Youssef's Info" width="500">
+<img src="profile.svg" alt="Youssef's Info" width="100%">
 
 <br><br>
 
