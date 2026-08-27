@@ -43,7 +43,7 @@
 
 
     <g transform="translate(30, 345)" class="text-base">
-    <text x="0" y="15"><tspan class="highlight">~$</tspan>@<tspan class="highlight">ls Skills</tspan></text>
+    <text x="0" y="15"><tspan class="highlight">~$</tspan>  <tspan class="highlight">ls Skills</tspan></text>
     <text x="0" y="35" class="comment">---------------------------------------------</text>
   </g>
 
