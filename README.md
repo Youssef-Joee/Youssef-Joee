@@ -3,7 +3,7 @@
 <br><br>
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,azure,git,github,matlab,vscode" alt="My Skills" />
+  <a>
+    <img src="https://skills.syvixor.com/api/icons?i=python,mysql,azure,git,github,matlab,vscode,obsidian,opencode" alt="My Skills" />
   </a>
 </div>
