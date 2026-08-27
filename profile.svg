@@ -40,4 +40,14 @@
     <text x="20" y="64"><tspan class="sub-label">YouTube</tspan>: <tspan class="link">@You-ssef-Amgad</tspan></text>
     <text x="20" y="96"><tspan class="sub-label">Email</tspan>: <tspan class="link">youssefamgad76@gmail.com</tspan></text>
   </g>
+
+
+    <g transform="translate(30, 335)" class="text-base">
+    <text x="0" y="15"><tspan class="highlight">~$</tspan>@<tspan class="highlight">ls Skills</tspan></text>
+    <text x="0" y="35" class="comment">---------------------------------------------</text>
+  </g>
+
+  
+  
+  
 </svg>
